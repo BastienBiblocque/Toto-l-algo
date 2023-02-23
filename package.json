@@ -1,0 +1,19 @@
+{
+  "name": "totolalgo",
+  "version": "1.0.0",
+  "description": "A simple prediction tool for football match",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BastienBiblocque/Toto-l-algo.git"
+  },
+  "author": "Bastien BIBLOCQUE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BastienBiblocque/Toto-l-algo/issues"
+  },
+  "homepage": "https://github.com/BastienBiblocque/Toto-l-algo#readme"
+}
